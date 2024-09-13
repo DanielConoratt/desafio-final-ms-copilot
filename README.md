@@ -1,6 +1,6 @@
 # Desafio final do Bootcamp Microsoft Copilot AI
 
-# Explorando os Recursos de IA Generativa com Copilot 🤖 e OpenAI - Reconhecimento de Textos em imagens
+# Explorando os Recursos de IA Generativa com Copilot 🤖 - Reconhecimento de Textos em imagens
 
 ## Introdução
 Este projeto utiliza reconhecimento de texto em imagem com Copilot.
@@ -25,12 +25,12 @@ O processo de criação do projeto seguiu os seguintes passos:
 
 - **Pesquisar imagens de temas diversos**: utilizando o buscador para achar e selecionar algumas imagens.
 
-- **Prompt de Comando no Copilot**: cada imagem teve sua propria pecularidade pois
+- **Prompt de Comando no Copilot**: cada imagem teve sua propria peculiaridade pois
 testei 3 ideias diferentes.
 
-- **Envio da imagem**: Inseri a imagem através do botão de imagens disponibilizado no Copilot e pedi a análise da imagem.
+- **Envio da imagem**: inseri a imagem através do botão de imagens disponibilizado no copilot e pedi a análise.
 
-- **Análise da imagem**: o copilot faz a analise das imagens seguindo os prompts que estão armazenados na pasta 📂outputs.
+- **Análise da imagem**: o copilot fez a analise das imagens seguindo os prompts que estão armazenados na pasta 📂outputs.
 
 - **Salvando os prints**: apos cada prompt exportei os aqrquivos usando o botão exportar presente no copilot gerando um documento com os prints dos prompts e a imagem, salvei o documento no meu computador em pdf.
 
