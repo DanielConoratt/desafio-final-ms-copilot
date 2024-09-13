@@ -39,7 +39,7 @@ testei 3 ideias diferentes.
 
 
 
-<img src="[URL_da_Imagem](https://github.com/DanielConoratt/desafio-final-ms-copilot/blob/main/inputs/03_placas.png)" alt="Erro 404">
+<img src="[https://github.com/DanielConoratt/desafio-final-ms-copilot/blob/main/inputs/03_placas.png]" alt="Erro 404">
 
 
 
