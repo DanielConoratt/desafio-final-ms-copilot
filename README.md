@@ -39,3 +39,28 @@ testei 3 ideias diferentes.
 
 
 
+![alt text](IA.webp)
+
+
+
+
+## Microsoft Copilot AI
+
+- De modo geral o bootcamp abrange muito bem os recursos inovadores que as IAs Generativas estão trazendo, todos os conteúdos foram bem apresentados, a grade não é muito extensa o que facilitou e deu oportunidades para pessoas como eu "iniciante" conseguir ainda que com dificuldades terminar dentro do prazo esperado e conseguir entregar todos os desafios.
+Gosto do layot da Dio, os professores são excelentes, só fiquei triste com a retirada do aplicativo para smartphones.
+
+- ## O bootcamp apresentou muitas coisas interessantes
+
+- **Saúde**: A IA generativa está sendo usada para criar novos medicamentos e tratamentos personalizados. Ela pode simular interações moleculares e prever a eficácia de novos compostos, acelerando o processo de descoberta de medicamentos.
+
+- **ChatBots**: A IA generativa teve um avanço significativo nessa area, fazendo com que as interrações em Chats automaticos, pois ela não apenas responde perguntas mas pode interagir de forma a se parecer com um ser humano, dando respostas mais acertivas.
+
+- **Energia**: No setor de energia, a IA generativa está ajudando a melhorar a eficiência energética e a segurança. Ela pode otimizar o design de sistemas de energia e prever falhas, reduzindo custos operacionais
+
+- **Veiculos autonomos**: A IA generativa está sendo usada para melhorar a percepção e a tomada de decisão dos veículos autônomos, ajudando-os a interpretar dados de sensores e tomar decisões em tempo real. Ela também é utilizada para criar ambientes de simulação realistas para treinamento, melhorar a interação com passageiros através de interfaces personalizadas, otimizar rotas em tempo real e aumentar a segurança com sistemas redundantes que podem prever e reagir a falhas.
+
+- **Conteudo audio visual**: A IA generativa está revolucionando a tradução de vídeos, tornando o processo mais rápido e eficiente. Ferramentas como Dubformer e Vidnoz AI são exemplos de tecnologias que permitem traduzir vídeos de forma automática, mantendo o estilo de fala e as emoções do orador original.
+Essas ferramentas utilizam algoritmos avançados de reconhecimento de fala e tradução automática neural para gerar legendas e dublagens em vários idiomas. Isso é especialmente útil para criadores de conteúdo, empresas e profissionais de marketing que desejam alcançar um público global sem as barreiras linguísticas.
+
+
+
