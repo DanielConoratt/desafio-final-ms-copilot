@@ -39,7 +39,7 @@ testei 3 ideias diferentes.
 
 
 
-<img src="https://github.com/DanielConoratt/desafio-final-ms-copilot/blob/main/inputs/03_placas.png" alt="Erro 404">
+<img src="https://github.com/DanielConoratt/desafio-final-ms-copilot/blob/main/img/img.webp" alt="Erro 404">
 
 
 
